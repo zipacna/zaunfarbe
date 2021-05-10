@@ -1,6 +1,6 @@
 ﻿/*
 This Program changes the Registry Key for the global Fence color of Stardock Fences based on the day of the week.
-Currently the colors are hardcoded from Monday to Sunday in the following order: Black-Red-Gold-Green-Blue-Blue-White
+Currently the default colors are from Monday to Sunday in the following order: Black-Red-Gold-Green-Blue-Blue-White
 Author: Jean Mattes
 Author-URI: risingcode.net
 License: MIT 2020
@@ -8,6 +8,7 @@ License: MIT 2020
 Possible Future Features:
 - Config (allow for changeable colors) [DONE]
 - Logging [TBD]
+- Releases?
 */
 using System;
 using System.Collections.Generic;
